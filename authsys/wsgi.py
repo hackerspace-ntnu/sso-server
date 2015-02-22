@@ -1,5 +1,5 @@
 """
-WSGI config for HSWiki project.
+WSGI config for HSAuth project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
